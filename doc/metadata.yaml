@@ -1,0 +1,16 @@
+description: Mono high resolution analog to digital converter. With serial data output.
+github_branch: ADCmonoSPI01A
+github_description: Mono high resolution analog to digital converter. With serial
+  data output.
+github_repo: ADCmonoSPI01
+github_url: https://github.com/mlab-modules/ADCmonoSPI01
+homepage: false
+images:
+- doc/img/ADCmonoSPI01A_top_small.jpg
+- doc/img/ADCmonoSPI01A_top_big.jpg
+- doc/img/ADCmonoSPI01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: ADCmonoSPI01
+updated: '2023-09-17T11:34:18.062038+00:00'
